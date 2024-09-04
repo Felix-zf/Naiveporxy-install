@@ -4,7 +4,7 @@
 
 1.SSH进入VPS，并执行以下命令运行NaiveProxy脚本
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontent.com/Felix-zf/Naiveproxy-install/main/naiveproxy.sh && bash naiveproxy.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/naiveproxy-script/main/naiveproxy.sh && bash naiveproxy.sh
 ```
 2.安装NaiveProxy,设置NaiveProxy和Caddy的端口、域名、用户名密码及伪装网站地址  
 3.安装完成之后，脚本将会显示NaiveProxy协议的节点信息及分享二维码  
